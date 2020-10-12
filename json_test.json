@@ -3,9 +3,9 @@
   "title": "ClimaCrossword",
   "clues": {
     "across": [
-      "1. Hop on it", "4. Decorative vases", "7. Declarative frontend framework", "8. Travel destination", "9. Higher Ed. place"
+      "Hop on it", "Decorative vases", "Declarative frontend framework", "Travel destination", "Higher Ed. place"
     ],
-    "down": ["1. It may be prickly", "2. Pee compound", "3. Major bug", "5. Search around", "7. Three-pronged"]
+    "down": ["It may be prickly", "Pee compound", "Major bug", "Search around", "Three-pronged"]
   },
   "answers": {
     "across": [
