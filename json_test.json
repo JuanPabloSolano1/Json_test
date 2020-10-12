@@ -11,7 +11,6 @@
     "across": [
       "BUS", "URNS", "REACT", "AFAR", "UNI"
     ],
-    "down": ["BUR", "UREA", "SNAFU", "SCAN", "TRI"]
   },
   "date": "7/28/17",
   "grid": ["B", "U", "S", ".", ".", "U", "R", "N", "S", ".", "R", "E", "A", "C", "T", ".", "A", "F", "A", "R", ".", ".", "U", "N", "I"],
